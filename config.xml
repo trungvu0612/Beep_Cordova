@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="vn.edu.greenwich.plugin" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Plugin</name>
+    <name>Beep App</name>
     <description>
         A sample Apache Cordova Plugin.
     </description>
-    <author email="baohnp@fe.edu.vn" href="https://greenwich.edu.vn/">
-        Serco Honan
+    <author email="trungvtgcs18467@fpt.edu.vn" href="https://greenwich.edu.vn/">
+        Vu Thanh Trung
     </author>
     <content src="index.html" />
     <access origin="*" />
